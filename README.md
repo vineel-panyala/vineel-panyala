@@ -1,5 +1,5 @@
 # 🎓 About Me
-I am 2nd-Year **Information Technology Management (MIS)** student at **Georgia Tech**, passionate about the intersection of technology for business applicatiom: from machine learning/AI to full-stack application development
+I am 3rd-Year **Information Technology Management (MIS)** student at **Georgia Tech**, passionate about the intersection of technology for business applicatiom: from machine learning/AI to full-stack application development
 
 ---
 
